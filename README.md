@@ -1,6 +1,8 @@
-# summary-of-yield
+# 项目开发脚手架
+--引用于原项目是基于js的[electron-vue](https://github.com/SimulatedGREG/electron-vue)
+--References to the original project are based on js of [electron-vue](https://github.com/SimulatedGREG/electron-vue)
 
-> An electron-vue project
+> An electron-vue-typescript project
 
 #### Build Setup
 
